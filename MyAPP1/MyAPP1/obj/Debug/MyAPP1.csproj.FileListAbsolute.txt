@@ -1,0 +1,10 @@
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe.config
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.exe
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\bin\Debug\MyAPP1.pdb
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.Properties.Resources.resources
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.GenerateResource.cache
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.exe
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.pdb
+C:\Users\kevin\Documents\UAM\sesion2\MyAPP1\MyAPP1\obj\Debug\MyAPP1.FrmPrincipal.resources
