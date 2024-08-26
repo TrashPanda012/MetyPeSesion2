@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MyAPP1.clases;
 
 namespace MyAPP1
 {
@@ -25,6 +26,14 @@ namespace MyAPP1
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnEvaluar_Click(object sender, EventArgs e)
+        {
+            Persona persona = new Persona();
+            persona.Nombre = tbNombre.Text;
+            persona.FechaNac = dtpFechaNac.Value;
+            MessageBox.Show(persona.EvaluarEdad());
         }
     }
 }

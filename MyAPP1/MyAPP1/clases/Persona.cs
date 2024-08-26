@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sesion2.clases
+namespace MyAPP1.clases
 {
     internal class Persona
     {
